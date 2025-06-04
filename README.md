@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WiddiCodes</h1>
 <h3 align="center">Software Development Engineer @ Amazon</h3>
 
-- 💬 Ask me about **Svelte, JavaScript**
+- 💬 Ask me about **AWS, Fargate, AWSCDK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
